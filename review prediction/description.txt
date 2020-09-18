@@ -1,0 +1,4 @@
+This is for the review prediction:
+  1. predicts if a customer would write a review
+  2. predicts if the review would be 4* or 5*
+
